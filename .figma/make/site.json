@@ -1,0 +1,11 @@
+{
+  "title": "aviate+2",
+  "description": "Enjoy a visually engaging music player designed for desktop use, offering an intuitive interface and quirky design for an enhanced listening experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
